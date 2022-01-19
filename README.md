@@ -1,5 +1,5 @@
 
-This course is now archived, and has been replaced by [NgRx (with Ngrx Data) - The Complete Guide](https://github.com/angular-university/ngrx-course)
+<!-- This course is now archived, and has been replaced by [NgRx (with Ngrx Data) - The Complete Guide](https://github.com/angular-university/ngrx-course)
 
 
 ## Angular Ngrx Course
@@ -8,7 +8,7 @@ This repository contains the code of the [Angular Ngrx Course](https://angular-u
 
 This course repository is updated to Angular v8, and there is a  package-lock.json file available, for avoiding semantic versioning installation issues.
 
-![Angular Ngrx Course](https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-ngrx-course.png)
+![Angular Ngrx Course](https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-ngrx-course.png) -->
 
 
 # Installation pre-requisites
